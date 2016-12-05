@@ -10,6 +10,17 @@
   transition-delay: initial;
 }
 
+/* HEADER */
+header{
+  background:rgb(192, 57, 43);
+  font-family:'Roboto', open-sans;
+  color: #fff;
+}
+
+header a {
+  color : #ffffff;
+}
+
 @media screen and (min-width:1200px){
   .comp{
       width:1440px;
